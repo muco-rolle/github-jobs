@@ -14,6 +14,8 @@ export const palette = {
 
     selection: '#1d4f91',
 
+    background: '#F7FAFC',
+
     success: '#1d4f91',
     successLight: '#73aade',
     successDark: '#0e2d68',
