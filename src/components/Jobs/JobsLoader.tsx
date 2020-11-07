@@ -14,10 +14,3 @@ export const JobsLoader = (
         <rect x="12" rx="2" ry="2" width="100%" height="100%" />
     </ContentLoader>
 );
-
-JobsLoader.metadata = {
-    name: 'Hassan Tijani.A',
-    github: 'surepeps',
-    description: 'Image Grid with Pagination',
-    filename: 'ImageGrid',
-};
