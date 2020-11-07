@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GitHub Jobs Redesign
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/github-jobs-api-93L-NL6rP)
 
 ## Available Scripts
 
